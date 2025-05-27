@@ -54,7 +54,7 @@
 <body>
   <header>
     <h1>Hamilton 5 Enterprise LLC</h1>
-    <p class="tagline">"Built on Trust. Designed for Living."</p>
+    <p class="tagline">"Revive. Remodel. Reorganize.- The Hamilton 5 Way."</p>
   </header>
 
   <section>
@@ -68,29 +68,28 @@
   <section>
     <h2>Our Mission</h2>
     <p>
-      To transform houses into homes through thoughtful, honest, and affordable renovation and organization solutions.
-      We put your needs first—providing exceptional customer service, expert craftsmanship, and results that reflect your lifestyle and vision.
+      At Hamilton 5 Enterprise LLC, our mission is to transform houses into homes through thoughtful renovation, remodeling, and reorganization services. We are dedicated to delivering honest work, reliable service, and affordable solutions—putting the needs and comfort of our customers first. With a strong foundation of trust, quality, and respect, we strive to improve lives—one room, one project, one family at a time.
     </p>
   </section>
 
   <section>
     <h2>Our Vision</h2>
     <p>
-      To be the most trusted name in home transformation—where integrity, affordability, and quality come together
-      to make dream spaces a reality.
+      Hamilton 5 Enterprise LLC. envisions becoming the trusted name in home transformation—where renovations, remodels, and reorganization come together with integrity, craftsmanship, and care. We are committed to delivering honest, affordable, and high-quality solutions that elevate everyday living. Our mission is to treat every home like our own, building lasting relationships through exceptional customer service and dependable results.
+      We aim to redefine home improvement by prioritizing our clients’ needs, respecting their spaces, and delivering results that inspire pride and comfort. At Hamilton 5 Enterprise, your vision is our blueprint—because your home deserves nothing less.
     </p>
   </section>
 
   <section>
     <h2>Core Values</h2>
     <ul>
-      <li>Integrity First – We do what's right, not what's easy.</li>
-      <li>Customer-Centered Service – Clients come first, always.</li>
-      <li>Affordable Quality – Reliable work at honest prices.</li>
-      <li>Craftsmanship Excellence – Precision and pride in every job.</li>
-      <li>Respect for Your Home – Clean, careful, and professional service.</li>
-      <li>Clear Communication – We keep you in the loop.</li>
-      <li>Always Improving – We learn and grow to serve better.</li>
+      <li>Integrity First – We believe in doing the right thing—even when no one is watching. Our word is our bond.</li>
+      <li>Customer-Centered Service –  Every decision starts with our clients’ needs, goals, and satisfaction.</li>
+      <li>Affordable Quality – We offer transparent pricing and maximize value without sacrificing quality.</li>
+      <li>Craftsmanship Excellence – We treat each project, big or small, with precision, professionalism, and pride.</li>
+      <li>Respect for Your Space – We work cleanly, efficiently, and courteously—always treating your home as if it were our own.</li>
+      <li>Clear Communication – From start to finish, we ensure open, honest dialogue with no surprises.</li>
+      <li>Continuous Improvement –  We’re committed to growing, learning, and improving—so our clients always get our best.</li>
     </ul>
   </section>
 
